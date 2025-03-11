@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshigupta-18" alt="divyanshigupta-18" /></a> </p>
 
-- 🔭 I’m currently working on **SWOC 2025**
-
-- 🌱 I’m currently learning **Backend development.**
-
-- 💬 Ask me about **Frontend development**
-
 - 📫 How to reach me **guptadivyanshi756@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshigupta-18&show_icons=true&locale=en&layout=compact" alt="divyanshigupta-18" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshigupta-18&show_icons=true&locale=en" alt="divyanshigupta-18" /></p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshigupta-18&" alt="divyanshigupta-18" /></p>-->
