@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Divyanshi Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -11,7 +9,7 @@
 
 - 🌱 I’m currently learning **Backend development.**
 
-- 💬 Ask me about **React, Javascript , Java**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **guptadivyanshi756@gmail.com**
 
