@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Open source projects.**
 
-- 👨‍💻 My portfolio available at [https://div-portfolio-chi.vercel.app/](https://div-portfolio-chi.vercel.app/)
+- 👨‍💻 My portfolio available at [https://div-portfolio-eta.vercel.app/](https://div-portfolio-eta.vercel.app/)
 
 - 💬 Ask me about **Front end Development.**
 
