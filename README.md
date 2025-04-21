@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshi Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshigupta-18" alt="divyanshigupta-18" /></a> </p>
 
