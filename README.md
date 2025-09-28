@@ -5,10 +5,8 @@
 
 - 🔭 I’m currently working on **my Web Developement skills.**
 
-- 🌱 I’m currently learning **Backend development.**
-
-- 🤝 I’m looking for help with **Open source projects.**
-
+- 🌱 I’m currently learning **Backend development & Cloud Computing.**
+  
 - 👨‍💻 My portfolio available at [https://div-portfolio-eta.vercel.app/](https://div-portfolio-eta.vercel.app/)
 
 - 💬 Ask me about **Front end Development.**
