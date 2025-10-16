@@ -8,9 +8,9 @@
 ---
 
 ### 🧠 About Me
- 🚀 Exploring **Full Stack Development** & **AWS Cloud**
- 💡 Skilled in both **frontend** and **backend** technologies  
- 🎯 Focused on writing clean, maintainable, and efficient code
+- 🚀 Exploring **Full Stack Development** & **AWS Cloud**
+- 💡 Skilled in both **frontend** and **backend** technologies  
+- 🎯 Focused on writing clean, maintainable, and efficient code
 
 ---
 
