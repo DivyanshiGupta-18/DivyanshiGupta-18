@@ -45,11 +45,11 @@
 
 ### 🧩 LeetCode Progress
 
-<div align="center">
+<!-- <div align="center">
   
 [![LeetCode Badge](https://leetcard.jacoblin.cool/divyanshi_k?theme=dark&font=Roboto&ext=heatmap)](https://leetcode.com/u/divyanshi_k/)
 
-</div>
+</div> -->
 
 ---
 
