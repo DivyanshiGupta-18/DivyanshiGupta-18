@@ -24,8 +24,8 @@
 **Backend & Database:**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,ejs" />
 
-**Cloud & Tools:**  
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman" />
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
